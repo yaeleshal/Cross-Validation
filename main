@@ -7,7 +7,6 @@ import numpy as np
 from matplotlib import pyplot as plt
 from sklearn.linear_model import LogisticRegression as LR
 
-# Q4 #
 
 # A
 def cross_validation_error(X, y, model, folder):
